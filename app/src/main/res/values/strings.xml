@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RemoteIR Manager</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RemoteIR Manager</string>
+    <string name="nav_header_subtitle">Manage your IR Devices</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">My Devices</string>
+    <string name="menu_slideshow">Control a device</string>
+    <string name="menu_tools">Device Settings</string>
+    <string name="menu_share">About IR Manager</string>
+    <string name="menu_send">Help</string>
+</resources>

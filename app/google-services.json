@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674554455710",
+    "firebase_url": "https://remoteir-3ed4d.firebaseio.com",
+    "project_id": "remoteir-3ed4d",
+    "storage_bucket": "remoteir-3ed4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674554455710:android:95c74f744a99bfa0bc7d8f",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674554455710-o5rp8tjdknm9emhsnp9i90f7ne24iebd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madproject",
+            "certificate_hash": "face817ec0c0258263878fcb45d04cadc5bfb749"
+          }
+        },
+        {
+          "client_id": "674554455710-7nmm633mo7mufqdrpmam3r21on794kvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHavrNm9iKNdP4COcrv9MxvTwRtsohRq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674554455710-7nmm633mo7mufqdrpmam3r21on794kvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
